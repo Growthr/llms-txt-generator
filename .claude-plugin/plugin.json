@@ -1,0 +1,14 @@
+{
+  "name": "llms-txt-generator",
+  "displayName": "llms.txt Generator",
+  "version": "1.0.0",
+  "description": "Draft, review, or update an llms.txt for a website in the llmstxt.org format, by reading the site or through Growthr's MCP.",
+  "author": {
+    "name": "Growthr",
+    "url": "https://growthr.com"
+  },
+  "homepage": "https://growthr.com/llms-txt-generator/",
+  "repository": "https://github.com/Growthr/llms-txt-generator",
+  "license": "MIT",
+  "keywords": ["llms.txt", "llms-txt", "seo", "geo", "ai-search", "aeo"]
+}
